@@ -1,7 +1,5 @@
 # IDS-706 Week 1: Python Template Project
 
-[![Python Template for IDS706](https://github.com/zhongyuan-duke/IDS-706-week-1-template/actions/workflows/python-template.yml/badge.svg)](https://github.com/zhongyuan-duke/IDS-706-week-1-template/actions/workflows/python-template.yml)
-
 ## Overview
 
 This repository contains a Python template project for **Data Engineering Systems (IDS 706)** Week 1 assignment. The template demonstrates best practices for Python development including virtual environments, testing, linting, formatting, and continuous integration using GitHub Actions.
