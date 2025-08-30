@@ -1,6 +1,6 @@
 # IDS-706 Week 1: Python Template Project
 
-## Overview
+## Project Description
 
 This repository contains a Python template project for **Data Engineering Systems (IDS 706)** Week 1 assignment. The template demonstrates best practices for Python development including virtual environments, testing, linting, formatting, and continuous integration using GitHub Actions.
 
@@ -30,7 +30,7 @@ IDS-706-week-1-template/
 └── README.md            # This file
 ```
 
-## Getting Started
+## Setup Instructions
 
 ### Option 1: Local Development
 
