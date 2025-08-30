@@ -130,5 +130,3 @@ The project uses the following Python packages (defined in `requirements.txt`):
 **Institution:** Duke University
 
 ---
-
-*This template provides a foundation for Python projects in the Data Engineering Systems course, emphasizing modern development practices and automated workflows.*
